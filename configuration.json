@@ -1,0 +1,10 @@
+{
+  "Db": {
+    "Dialect": "mysql",
+    "Dsn": "db_user:password@tcp(localhost:3306)/my_db"
+  },
+  "Bot": {
+    "Token": "TOKEN_BOT",
+    "Minutes": "360"
+  }
+}
